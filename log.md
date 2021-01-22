@@ -1,7 +1,9 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Januari 22 2021
+
+Preparing for the 100-days-of-code challenge.
+Before starting this challenge i'm gathering some possible research ideas.
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
