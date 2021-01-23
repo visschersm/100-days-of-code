@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+*** Ideas ***
+- Dapr
+- Dapper
+- MongoDb
+- AWS
+- Design patterns
+- Golang
+- F#
+
 ### Day 0: Januari 22 2021
 
 Preparing for the 100-days-of-code challenge.
