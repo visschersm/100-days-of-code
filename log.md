@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-*** Ideas ***
+*** Ideas
 - Dapr
 - Dapper
 - MongoDb
