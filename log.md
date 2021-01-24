@@ -8,6 +8,8 @@
 - Design patterns
 - Golang
 - F#
+- C++ OpenGL/DirectX 11- Graphics Framework
+- TDD form strong opinion on how it should be done
 
 ### Day 0: Januari 22 2021
 
