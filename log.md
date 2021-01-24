@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-*** Ideas
+### Research Ideas
 - Dapr
 - Dapper
 - MongoDb
@@ -23,3 +23,7 @@ Before starting this challenge i'm gathering some possible research ideas.
 **Today's Progress**: Created a dotnet webapi project with some libraries to tryout different ORMs. In the next few days I will work on an implementation on DAPPER ORM and comapre it with some EFCore implementation. Since EF is my mainly used ORM I will compare it with EF. I also want to create an implementation of LLBLGen since I heard of that last year and want to get familiar with that one as well.
 
 **Link(s) to work**: [ORM Tryout](https://github.com/visschersm/orm_api_test)
+
+### DAY 2: Januari 24 2021
+
+**Today's Progress**: Created an TodoController which is going to contain some basic CRUD to test the different ORMs against. Started with Dapper to see if I can already manage basic CRUD with this ORM. I might want to get into seeing how I can manage different build configs to support demoing better. Something like: Run with Dapper/Run with EF to start the project running on a different ORM. "CROSS_ORM"?
