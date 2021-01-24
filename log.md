@@ -16,7 +16,7 @@ Before starting this challenge i'm gathering some possible research ideas.
 
 **Today's Progress**: Started with a small C# DotNet 5.0 project in which I'm going to setup up a Dapper ORM connection. I created an Azure SQL Server to test with a real setup. But I'm struggling a bit because my SQL knowledge is really basic. Spend a bit more time than the hour on getting it to work, but the first data was written to the database.
 
-**Link to work:** [Dapper Tryout](https://github.com/visschersm/dapper-tryout)
+**Link(s) to work:** [Dapper Tryout](https://github.com/visschersm/dapper-tryout)
 
 ### Day 1: Januari 23, 2020
 
