@@ -10,6 +10,8 @@
 - F#
 - C++ OpenGL/DirectX 11- Graphics Framework
 - TDD form strong opinion on how it should be done
+- C# Attributes
+- Proper (custom)Exception creation and handling 
 
 ### Day 0: Januari 22 2021
 
@@ -26,10 +28,18 @@ Before starting this challenge i'm gathering some possible research ideas.
 
 **Link(s) to work**: [ORM Tryout](https://github.com/visschersm/orm_api_test)
 
-### DAY 2: Januari 24 2021
+### DAY 2: Januari 24, 2021
 
 **Today's Progress**: Created an TodoController which is going to contain some basic CRUD to test the different ORMs against. Started with Dapper to see if I can already manage basic CRUD with this ORM. I might want to get into seeing how I can manage different build configs to support demoing better. Something like: Run with Dapper/Run with EF to start the project running on a different ORM. "CROSS_ORM"?
 I think it is much fun to finally learn some more SQL. Only had to use it in very minimal ways because with EntityFramework I have almost never had to use it. 
+
+**Link(s) to work**: 
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 3: Januari 25, 2021
+
+** Today's Progress**: Today I worked on the CRUD implementation of EFCore and LinqToDb. I created an EFCore, since this is my most used ORM, to verify results, and compare how other ORMs are used to something i'm used to myself. Maybe tomorrow I can start setting up some build configs or start on a LLBLGen implementation. After that I'll probabbly start working on more advance implementations/usecases. 
 
 **Link(s) to work**: 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
