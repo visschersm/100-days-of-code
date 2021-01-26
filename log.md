@@ -44,3 +44,12 @@ I think it is much fun to finally learn some more SQL. Only had to use it in ver
 **Link(s) to work**: 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 4: Januari 26, 2021
+
+** Today's Progress**: Today I worked on an implementation of NHibernate. So far this was the most problamatic for me to setup. The docs felt a bit old and the way it was setup did not seem to match dotnet core exactly. In the end found a nice blog which filled in the missing pieces. Still needs some work to fine tune the implementation but the basic CRUD operations are done.
+
+**Link(s) to work**: 
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+3. [Blog mentioned](https://gunnarpeipman.com/aspnet-core-nhibernate/)
