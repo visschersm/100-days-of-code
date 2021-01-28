@@ -62,3 +62,11 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 **Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 6: Januari 28, 2021
+
+** Today's Progress**: Today I started implementing TPT inheritance. EFCore 5 now supports it out of the box so that was pretty easy. Trying to get it to work in Dapper however is a different story. I think I managed to get the Create method working had to do some googling though. 
+
+**Link(s) to work**:
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
