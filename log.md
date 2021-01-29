@@ -70,3 +70,7 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 **Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+
+### DAY 7: Januari 29, 2021
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
