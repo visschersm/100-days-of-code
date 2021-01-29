@@ -73,4 +73,11 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 
 
 ### DAY 7: Januari 29, 2021
+
+** Today's Progress**: Today I created some different build configurations. Now it is more easy to run different ORM setups like shown in the following image:
 ![alt text](https://github.com/visschersm/100-days-of-code/blob/master/supported-orms.png?raw=true)
+
+Using launch settings it was rather easy to create these configuations which make it possible to configure all the different ORM implementations and run them with a button click. Next to that I worked on different TPT inheritance implementations. I want to see what is possible with the different ORMs and how they compare to eachother esppecially in usablility. After the inheritance implementation I want to tryout many to many relationships. 
+
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
