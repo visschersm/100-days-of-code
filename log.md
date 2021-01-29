@@ -73,4 +73,4 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 
 
 ### DAY 7: Januari 29, 2021
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/visschersm/100-days-of-code/blob/master/supported-orms.png?raw=true)
