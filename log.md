@@ -88,7 +88,7 @@ Using launch settings it was rather easy to create these configuations which mak
 **Today's Progress**:Today I worked some more on the implementation details of the AnimalService to test TPT inheritance in different ORMs. I also added task.json for VSCode so I can run the application more easily configured with the different ORMs.
 |ORM|TPT Working/Checked|
 |---|---|
-|Dapper|<ul><li>- [X]</li></ul>|
+|Dapper|<ul><li>- [x] item1</li><li>- [ ] item2</li></ul>|
 |EFCore|<ul><li>- [X]</li></ul>|
 |Linq2Db||
 |LLBLGen||
