@@ -39,7 +39,7 @@ I think it is much fun to finally learn some more SQL. Only had to use it in ver
 
 ### DAY 3: Januari 25, 2021
 
-** Today's Progress**: Today I worked on the CRUD implementation of EFCore and LinqToDb. I created an EFCore, since this is my most used ORM, to verify results, and compare how other ORMs are used to something i'm used to myself. Maybe tomorrow I can start setting up some build configs or start on a LLBLGen implementation. After that I'll probabbly start working on more advance implementations/usecases. 
+**Today's Progress**: Today I worked on the CRUD implementation of EFCore and LinqToDb. I created an EFCore, since this is my most used ORM, to verify results, and compare how other ORMs are used to something i'm used to myself. Maybe tomorrow I can start setting up some build configs or start on a LLBLGen implementation. After that I'll probabbly start working on more advance implementations/usecases. 
 
 **Link(s) to work**: 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
@@ -47,7 +47,7 @@ I think it is much fun to finally learn some more SQL. Only had to use it in ver
 
 ### DAY 4: Januari 26, 2021
 
-** Today's Progress**: Today I worked on an implementation of NHibernate. So far this was the most problamatic for me to setup. The docs felt a bit old and the way it was setup did not seem to match dotnet core exactly. In the end found a nice blog which filled in the missing pieces. Still needs some work to fine tune the implementation but the basic CRUD operations are done.
+**Today's Progress**: Today I worked on an implementation of NHibernate. So far this was the most problamatic for me to setup. The docs felt a bit old and the way it was setup did not seem to match dotnet core exactly. In the end found a nice blog which filled in the missing pieces. Still needs some work to fine tune the implementation but the basic CRUD operations are done.
 
 **Link(s) to work**: 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
@@ -56,7 +56,7 @@ I think it is much fun to finally learn some more SQL. Only had to use it in ver
 
 ### DAY 5: Januari 27, 2021
 
-** Today's Progress**: Today I worked on an implemenation of LLBLGen orm. It took me a while before I had everything setup but managed to implement the CRUD operations in the end. Want to invensigate if there are more direct ways to configure the llblgen model to generate the entities. Now I would have to change the projects. Would be nice if the model can be synced automatically with the solution in which I am using it. Read something about that it should be managable from within visual studio.
+**Today's Progress**: Today I worked on an implemenation of LLBLGen orm. It took me a while before I had everything setup but managed to implement the CRUD operations in the end. Want to invensigate if there are more direct ways to configure the llblgen model to generate the entities. Now I would have to change the projects. Would be nice if the model can be synced automatically with the solution in which I am using it. Read something about that it should be managable from within visual studio.
 Next to that started on a TPT inheritance implementation within the EFSample. Going to expand this to the other services.
 
 **Link(s) to work**:
@@ -65,7 +65,7 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 
 ### DAY 6: Januari 28, 2021
 
-** Today's Progress**: Today I started implementing TPT inheritance. EFCore 5 now supports it out of the box so that was pretty easy. Trying to get it to work in Dapper however is a different story. I think I managed to get the Create method working had to do some googling though. 
+**Today's Progress**: Today I started implementing TPT inheritance. EFCore 5 now supports it out of the box so that was pretty easy. Trying to get it to work in Dapper however is a different story. I think I managed to get the Create method working had to do some googling though. 
 
 **Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
@@ -74,7 +74,7 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 
 ### DAY 7: Januari 29, 2021
 
-** Today's Progress**: Today I created some different build configurations. Now it is more easy to run different ORM setups like shown in the following image:
+**Today's Progress**: Today I created some different build configurations. Now it is more easy to run different ORM setups like shown in the following image:
 
 ![alt text](https://github.com/visschersm/100-days-of-code/blob/master/supported-orms.png?raw=true)
 
@@ -85,11 +85,11 @@ Using launch settings it was rather easy to create these configuations which mak
 
 ### DAY 8: Januari 30, 2021
 
-** Today's Progress**:Today I worked some more on the implementation details of the AnimalService to test TPT inheritance in different ORMs. I also added task.json for VSCode so I can run the application more easily configured with the different ORMs.
+**Today's Progress**:Today I worked some more on the implementation details of the AnimalService to test TPT inheritance in different ORMs. I also added task.json for VSCode so I can run the application more easily configured with the different ORMs.
 |ORM|TPT Working|
 |---|---|
-|Dapper||
-|EFCore||
+|Dapper|[X]|
+|EFCore|[X]|
 |Linq2Db||
 |LLBLGen||
 |NHibernate||
