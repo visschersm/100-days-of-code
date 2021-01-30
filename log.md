@@ -86,10 +86,11 @@ Using launch settings it was rather easy to create these configuations which mak
 ### DAY 8: Januari 30, 2021
 
 **Today's Progress**:Today I worked some more on the implementation details of the AnimalService to test TPT inheritance in different ORMs. I also added task.json for VSCode so I can run the application more easily configured with the different ORMs.
+
 |ORM|TPT Working/Checked|Notes|
 |---|---|---|
 |Dapper|<ul><li>- [x] </li></ul>|Not really inheritance, but we can map our TPT entities with some SQL.|
 |EFCore|<ul><li>- [X] </li></ul>||
-|Linq2Db|<ul><li>- [ ] </li></ul>|Doesn't support it, but we can work around this.|
+|Linq2Db|<ul><li>- [ ] </li></ul>||
 |LLBLGen|<ul><li>- [ ] </li></ul>||
 |NHibernate|<ul><li>- [ ] </li></ul>||
