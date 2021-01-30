@@ -89,7 +89,7 @@ Using launch settings it was rather easy to create these configuations which mak
 |ORM|TPT Working/Checked|
 |---|---|
 |Dapper|<ul><li>- [x] </li></ul>|
-|EFCore|<ul><li>- [X]</li></ul>|
-|Linq2Db||
-|LLBLGen||
-|NHibernate||
+|EFCore|<ul><li>- [X] </li></ul>|
+|Linq2Db|<ul><li>- [ ] </li></ul>|
+|LLBLGen|<ul><li>- [ ] </li></ul>|
+|NHibernate|<ul><li>- [ ] </li></ul>|
