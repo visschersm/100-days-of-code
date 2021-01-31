@@ -94,3 +94,21 @@ Using launch settings it was rather easy to create these configuations which mak
 |Linq2Db|<ul><li>- [ ] </li></ul>||
 |LLBLGen|<ul><li>- [ ] </li></ul>||
 |NHibernate|<ul><li>- [ ] </li></ul>||
+
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 9: Januari 31, 2021
+
+**Today's Progress**:Today again I've been working on the implementation of TPT inhertiance. Today it was for the ORMs Linq2Db and LLBLGen. Also installed the visual studio extension for LLBLGen to generate the model instead of having to use another program for that. It seems to do exactly the same, so it is nice to only have to use VS. Implementing inheritance for LLBLGen was really easy, its just supported from the generated models. For Linq2Db it was a different story. It was pretty hard because it is not supported out of the box. 
+
+|ORM|TPT Working/Checked|Notes|
+|---|---|---|
+|Dapper|<ul><li>- [x] </li></ul>|Not really inheritance, but we can map our TPT entities with some SQL.|
+|EFCore|<ul><li>- [X] </li></ul>|Nicely supported since EFCore 5|
+|Linq2Db|<ul><li>- [x] </li></ul>|Not supported out of the box, but found a way to work around it.|
+|LLBLGen|<ul><li>- [x] </li></ul>|Supported out of the box|
+|NHibernate|<ul><li>- [ ] </li></ul>||
+
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
