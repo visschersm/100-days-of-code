@@ -112,3 +112,19 @@ Using launch settings it was rather easy to create these configuations which mak
 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 10: Februai 1, 2021
+
+**Today's Progress**:Today I've finished up the TPT inheritance. Working through the different ORMs made it easier in the end because of simalarities. Also I've checked again the other CRUD calls to verify them still working. Fixed a couple and added a couple of integration tests using xUnit. Although some of the ORMs did not support TPT inheritance, i've managed to get it working one way or another. Feels good to get through the struggles. 
+I've read today about Q# which should be a language by microsoft that is created for quantum computing, they released a learning path on microsoft learn, might check that out one of these days.
+
+|ORM|TPT Working/Checked|Notes|
+|---|---|---|
+|Dapper|<ul><li>- [x] </li></ul>|Not really inheritance, but we can map our TPT entities with some SQL.|
+|EFCore|<ul><li>- [X] </li></ul>|Nicely supported since EFCore 5|
+|Linq2Db|<ul><li>- [x] </li></ul>|Not supported out of the box, but found a way to work around it.|
+|LLBLGen|<ul><li>- [x] </li></ul>|Supported out of the box|
+|NHibernate|<ul><li>- [X] </li></ul>|Supported by using Entities to map to.|
+
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
