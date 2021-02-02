@@ -128,3 +128,12 @@ I've read today about Q# which should be a language by microsoft that is created
 
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+
+### DAY 11: Februai 2, 2021
+
+**Today's Progress**:Worked on a SQL sample. Thought it would be nice to compare a direct SQL implementation against the ORM implementations. Might even start my own ORM one day. All the ORMs should be working now and have full TPT CRUD support.
+
+
+1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
+2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
