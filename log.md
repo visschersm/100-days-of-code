@@ -80,6 +80,7 @@ Next to that started on a TPT inheritance implementation within the EFSample. Go
 
 Using launch settings it was rather easy to create these configuations which make it possible to configure all the different ORM implementations and run them with a button click. Next to that I worked on different TPT inheritance implementations. I want to see what is possible with the different ORMs and how they compare to eachother esppecially in usablility. After the inheritance implementation I want to tryout many to many relationships. 
 
+**Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
 
@@ -95,6 +96,7 @@ Using launch settings it was rather easy to create these configuations which mak
 |LLBLGen|<ul><li>- [ ] </li></ul>||
 |NHibernate|<ul><li>- [ ] </li></ul>||
 
+**Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
 
@@ -110,10 +112,11 @@ Using launch settings it was rather easy to create these configuations which mak
 |LLBLGen|<ul><li>- [x] </li></ul>|Supported out of the box|
 |NHibernate|<ul><li>- [ ] </li></ul>||
 
+**Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
 
-### DAY 10: Februai 1, 2021
+### DAY 10: Februari 1, 2021
 
 **Today's Progress**:Today I've finished up the TPT inheritance. Working through the different ORMs made it easier in the end because of simalarities. Also I've checked again the other CRUD calls to verify them still working. Fixed a couple and added a couple of integration tests using xUnit. Although some of the ORMs did not support TPT inheritance, i've managed to get it working one way or another. Feels good to get through the struggles. 
 I've read today about Q# which should be a language by microsoft that is created for quantum computing, they released a learning path on microsoft learn, might check that out one of these days.
@@ -126,14 +129,29 @@ I've read today about Q# which should be a language by microsoft that is created
 |LLBLGen|<ul><li>- [x] </li></ul>|Supported out of the box|
 |NHibernate|<ul><li>- [X] </li></ul>|Supported by using Entities to map to.|
 
+**Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
 
 
-### DAY 11: Februai 2, 2021
+### DAY 11: Februari 2, 2021
 
 **Today's Progress**:Worked on a SQL sample. Thought it would be nice to compare a direct SQL implementation against the ORM implementations. Might even start my own ORM one day. All the ORMs should be working now and have full TPT CRUD support.
 
-
+**Link(s) to work**:
 1. [ORM Tryout](https://github.com/visschersm/orm_api_test)
 2. [Postman CRUD](https://www.getpostman.com/collections/77266b4c01a76c51ef8a)
+
+### DAY 12: Februari 3, 2021
+
+**Today's Progress**:Today I started with a sample blog project. I found it hard to keep focusing on tiny example to implement in my ORM test project so I decided to do a project that I started many times but now with the intention to see it through. I will pick my confertable stack to start an apply a clean architecture to it so make it flexible. This way I intent to tryout multiple ORMs and other parts of my stack and verify it with something i am comfertable with. The stack that I will use, will be dotnet 5, blazor, efcore 5 and sql azure database.
+
+**Link(s) to work**:
+1. [Blog Sample]()
+
+### DAY 13: Februari 4, 2021
+
+**Today's Progress**:I have no ill wish toward the number 13, but it is peculiar that on the 13th day of my challenge everything seems to work against me. From getting up with a headace to forgetting to commit my log for the day (and the before for that matter). So on top of my head; I worked on the blazor sample. But ran into some configuration issues. Did manage to solve it and got it running now, but nothing yet to show for it. Though I have managed to implement the IDesignTimeContextFactory for EFCore which solves my long time mistery on how to run my migrations without having to include the EF Design package to my apis.
+
+**Link(s) to work**:
+1. [Blog Sample]()
