@@ -147,11 +147,11 @@ I've read today about Q# which should be a language by microsoft that is created
 **Today's Progress**:Today I started with a sample blog project. I found it hard to keep focusing on tiny example to implement in my ORM test project so I decided to do a project that I started many times but now with the intention to see it through. I will pick my confertable stack to start an apply a clean architecture to it so make it flexible. This way I intent to tryout multiple ORMs and other parts of my stack and verify it with something i am comfertable with. The stack that I will use, will be dotnet 5, blazor, efcore 5 and sql azure database.
 
 **Link(s) to work**:
-1. [Blog Sample]()
+1. [Blog Sample](https://github.com/visschersm/MTech.Blog)
 
 ### DAY 13: Februari 4, 2021
 
 **Today's Progress**:I have no ill wish toward the number 13, but it is peculiar that on the 13th day of my challenge everything seems to work against me. From getting up with a headace to forgetting to commit my log for the day (and the before for that matter). So on top of my head; I worked on the blazor sample. But ran into some configuration issues. Did manage to solve it and got it running now, but nothing yet to show for it. Though I have managed to implement the IDesignTimeContextFactory for EFCore which solves my long time mistery on how to run my migrations without having to include the EF Design package to my apis.
 
 **Link(s) to work**:
-1. [Blog Sample]()
+1. [Blog Sample](https://github.com/visschersm/MTech.Blog)
