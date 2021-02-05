@@ -155,3 +155,7 @@ I've read today about Q# which should be a language by microsoft that is created
 
 **Link(s) to work**:
 1. [Blog Sample](https://github.com/visschersm/MTech.Blog)
+
+### DAY 14: Februari 5, 2021
+
+**Today's Progress**:Today I have followed along with a Microsoft Learn tutorial to teach myself a start of Azure Functions. In on of my personal projects I want to soon get started with those. I might try to build a Ray Tracer using the power of the cloud, but we will see when we get there.
