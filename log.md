@@ -159,3 +159,7 @@ I've read today about Q# which should be a language by microsoft that is created
 ### DAY 14: Februari 5, 2021
 
 **Today's Progress**:Today I have followed along with a Microsoft Learn tutorial to teach myself a start of Azure Functions. In on of my personal projects I want to soon get started with those. I might try to build a Ray Tracer using the power of the cloud, but we will see when we get there.
+
+### DAY 15: Februari 6, 2021
+
+**Today's Progress**:For today I worked through a module dedicated to azure functions. It looks very promosing and I am looking forward to the possibilities.
