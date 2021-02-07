@@ -163,3 +163,11 @@ I've read today about Q# which should be a language by microsoft that is created
 ### DAY 15: Februari 6, 2021
 
 **Today's Progress**:For today I worked through a module dedicated to azure functions. It looks very promosing and I am looking forward to the possibilities.
+
+### DAY 16: Februari 7, 2021
+
+**Today's Progress**:Today I worked through another module on azure functions. Hopefully I soon can apply it to an actual sample.
+
+### DAY 16: Februari 8, 2021
+
+**Today's Progress**:And another day of working though Microsoft Learn tutorials. Next to the Azure Functions tutorial I worked through the introductory tutorial on Microsoft Q# Azure Quantum. I think I need to setup a sample project for Azure functions to see if I can apply what I learned to a real live usecase.
