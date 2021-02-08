@@ -166,8 +166,11 @@ I've read today about Q# which should be a language by microsoft that is created
 
 ### DAY 16: Februari 7, 2021
 
-**Today's Progress**:Today I worked through another module on azure functions. Hopefully I soon can apply it to an actual sample.
+**Today's Progress**:Today I worked through another module on azure functions. Hopefully I soon can apply it to an actual sample. Next to that I worked through the introductory tutorial of Q# Azure Quantum. For the Azure Functions I think I need to come up with a sample project to see if I can apply them to some actual usecases. 
 
-### DAY 16: Februari 8, 2021
+### DAY 17: Februari 8, 2021
 
-**Today's Progress**:And another day of working though Microsoft Learn tutorials. Next to the Azure Functions tutorial I worked through the introductory tutorial on Microsoft Q# Azure Quantum. I think I need to setup a sample project for Azure functions to see if I can apply what I learned to a real live usecase.
+**Today's Progress**:I did not yet give up on the blog which I mentioned a couple of days back. Just got distracted by Azure Functions and Q#. Today I worked through a tutorial on html basics on [FreeCodeCamp](https://www.freecodecamp.org/). I thought it would be nice to start with the basics. I have created parts of webpages in the past using the Vue.js framework, but never actually started one on my own. To gain more from the learning experience and maybe let it be more successfull I am now starting the html and css tutorials.
+
+**Link(s) to work**:
+1. [Blog Start](https://github.com/visschersm/100daysHtmlTutorials)
