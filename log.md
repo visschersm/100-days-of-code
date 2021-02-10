@@ -174,3 +174,14 @@ I've read today about Q# which should be a language by microsoft that is created
 
 **Link(s) to work**:
 1. [Blog Start](https://github.com/visschersm/100daysHtmlTutorials)
+
+### DAY 18: Februari 9, 2021
+
+**Today's Progress**:Today I started the [FreeCodeCamp](https://www.freecodecamp.org) CSS course. It was a rather big one so I did not finsih it yet but will definitly do that tomorrow. Next to that, although more work related, I followed a workshop on the fundamentals of Azure. Although much of the topics I am at least a bit familiar with, there were a lot of intersting details that I did not know about. For example, I did know about ARM templates, but did not yet know the power of the little devils. Definitly am going to look into those pretty soon.
+
+### DAY 19: Februari 10, 2021
+
+**Today's Progress**:Today I finished the [FreeCodeCamp](https://www.freecodecamp.org) course on CSS, which even ended with an little animation created in CSS. I did not know that was even possible!.
+
+**Link(s) to work**:
+1. [Animated Penguin](https://github.com/visschersm/100daysHtmlTutorials/blob/master/CSSPenguinSample.html)
