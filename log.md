@@ -185,3 +185,10 @@ I've read today about Q# which should be a language by microsoft that is created
 
 **Link(s) to work**:
 1. [Animated Penguin](https://github.com/visschersm/100daysHtmlTutorials/blob/master/CSSPenguinSample.html)
+
+### DAY 20: Februari 11, 2021
+
+**Today's Progress**:Today was a long work day. But I am glad I could still spend an hour coding. I spent some more time on learning CSS using the tutorials at [FreeCodeCamp](https://www.freecodecamp.org). I really like actually learning more on the building blocks on all those fancy webpages out there. I also experimented around with what I myself could do with CSS and came up with a page of blocks. It is not much, but it is the first time I have the feeling I know what I am doing with this stuff.
+
+**Link(s) to work**:
+1. [Tryout Of CSS](https://github.com/visschersm/trials)
