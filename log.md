@@ -192,3 +192,10 @@ I've read today about Q# which should be a language by microsoft that is created
 
 **Link(s) to work**:
 1. [Tryout Of CSS](https://github.com/visschersm/trials)
+
+### DAY 21: Februari 12, 2021
+
+**Today's Progress**:Today I worked some more on the CSS tutorials. Learning about animating and creating shapes by just using CSS. Pretty blown away that this is all possible with just using CSS without me ever knowing about it. Added some new samples to the repository of the work that I did today.
+
+**Link(s) to work**:
+1. [Tryout Of CSS](https://github.com/visschersm/trials)
