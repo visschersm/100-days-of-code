@@ -199,3 +199,11 @@ I've read today about Q# which should be a language by microsoft that is created
 
 **Link(s) to work**:
 1. [Tryout Of CSS](https://github.com/visschersm/trials)
+
+### DAY 22: Februari 13, 2021
+
+**Today's Progress**:This time I have been working on a module on applied accessibility. All kinds of tips and tricks on how to make you webpage more accessible for everybody even visual or hearing impaired. I never knew there are so many ways to optimize your webpage.
+Next to that I worked a bit on a navigation bar. I was wondering if this is now something I actually can manage. It is nothing fancy, but the things that I wanted to make it do, it did.
+
+**Link(s) to work**:
+1. [Tryout of navigation](https://github.com/visschersm/trials/blob/master/fullpagetest.html)
