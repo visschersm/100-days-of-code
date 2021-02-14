@@ -207,3 +207,7 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 
 **Link(s) to work**:
 1. [Tryout of navigation](https://github.com/visschersm/trials/blob/master/fullpagetest.html)
+
+### DAY 23: Februari 14, 2021
+
+**Today's Progress**:I started today by looking into the basics of Wordpress. Since this is such a popular framework, I thought to look into what all the fuss is about. But I did not wanted to stop working on the [FreeCodeCamp](https://freecodecamp.org) Tutorials before finishing the module. So tomorrow I will look into it some more. After I finished up the Responsive Web design course on FreeCodeCamp.
