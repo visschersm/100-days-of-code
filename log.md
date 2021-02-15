@@ -211,3 +211,10 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 ### DAY 23: Februari 14, 2021
 
 **Today's Progress**:I started today by looking into the basics of Wordpress. Since this is such a popular framework, I thought to look into what all the fuss is about. But I did not wanted to stop working on the [FreeCodeCamp](https://freecodecamp.org) Tutorials before finishing the module. So tomorrow I will look into it some more. After I finished up the Responsive Web design course on FreeCodeCamp.
+
+### DAY 24: Februari 15, 2021
+
+**Today's Progress**:Today I did the first code challenge from FreeCodeCamp Responsive Web design. The exact CSS was a bit hard, but the rest was pretty doable. Looking forward to the other challenges.
+
+1. [FreeCodeCamp Challenge](https://dev.azure.com/NTech-Markit/_git/Tribute%20Page?path=%2Findex.html)
+2. [](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
