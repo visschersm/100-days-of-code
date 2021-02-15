@@ -216,5 +216,5 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 
 **Today's Progress**:Today I did the first code challenge from FreeCodeCamp Responsive Web design. The exact CSS was a bit hard, but the rest was pretty doable. Looking forward to the other challenges.
 
-1. [FreeCodeCamp Challenge](https://dev.azure.com/NTech-Markit/_git/Tribute%20Page?path=%2Findex.html)
-2. [](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+1. [Challenge implementation](https://dev.azure.com/NTech-Markit/_git/Tribute%20Page?path=%2Findex.html)
+2. [FreeCodeCamp Challenge](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
