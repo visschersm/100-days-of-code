@@ -225,3 +225,18 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 
 **Link(s) to work**:
 1. [Form Challenge](https://codepen.io/visschersm/pen/GRNWoMX?editors=1111)
+
+### DAY 26: Februari 17, 2021
+
+**Today's Progress**:Today I attendend a Terraform lightning talk. But since it's a coding challenge I spend a bit of time working on the CSS of the form challenge from yesterday.
+
+**Link(s) to work**:
+1. [Form Challenge](https://codepen.io/visschersm/pen/GRNWoMX?editors=1111)
+
+### DAY 26: Februari 18, 2021
+
+**Today's Progress**:I worked a bit on a challenge from [FreeCodeCamp](https://freecodecamp.org) but I also decided that after following an Azure Fundamentals workshop I am going to study for the AZ-900 certification exam. So I will be following some more tutorials from [Microsoft Learn](https://docs.microsoft.com/en-us/learn)
+
+**Link(s) to work**:
+1. [LandingPage challenge](https://codepen.io/visschersm/pen/QWGvYjL)
+2. [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals)
