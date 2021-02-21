@@ -240,3 +240,7 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 **Link(s) to work**:
 1. [LandingPage challenge](https://codepen.io/visschersm/pen/QWGvYjL)
 2. [Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/azure-compute-fundamentals)
+
+### DAY 27: Februari 20, 2021
+
+**Today's Progress**:Yesterday I skipped my first day. Been a long week and I just did not feel like it. Today however I manage to get some nice work done. Worked on a Mongo tutorial using the mongodb university courses. Next to that I finished the second course of the AZ-900 azure fundamentals course.
