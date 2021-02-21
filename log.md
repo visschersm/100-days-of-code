@@ -244,3 +244,10 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 ### DAY 27: Februari 20, 2021
 
 **Today's Progress**:Yesterday I skipped my first day. Been a long week and I just did not feel like it. Today however I manage to get some nice work done. Worked on a Mongo tutorial using the mongodb university courses. Next to that I finished the second course of the AZ-900 azure fundamentals course.
+
+### DAY 28: Februari 21, 2021
+
+**Today's Progress**:Today I worked on another chapter of Mongodb university. Soon I will be finishing the base course.
+
+**Link(s) to work**:
+1. [Chapter 4](https://university.mongodb.com/mercury/M001/2021_February_9/chapter/Chapter_4_Advanced_CRUD_Operations/lesson/5f373c0f04e9ffb6ef3224db/problem)
