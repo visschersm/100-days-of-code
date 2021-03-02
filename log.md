@@ -251,3 +251,8 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 
 **Link(s) to work**:
 1. [Chapter 4](https://university.mongodb.com/mercury/M001/2021_February_9/chapter/Chapter_4_Advanced_CRUD_Operations/lesson/5f373c0f04e9ffb6ef3224db/problem)
+
+### DAY 1: March 2, 2021
+
+**Today's Progress**: Today I decided to start the challenge again. Since I have been slacking a lot of days on the challenge it did not feel right to just continue it.
+Today I started setting up [Dapr](dapr.io) since I heard a lot of good things about this technology. Lets see what all the fuss is about.
