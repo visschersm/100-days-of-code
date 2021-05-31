@@ -256,3 +256,17 @@ Next to that I worked a bit on a navigation bar. I was wondering if this is now 
 
 **Today's Progress**: Today I decided to start the challenge again. Since I have been slacking a lot of days on the challenge it did not feel right to just continue it.
 Today I started setting up [Dapr](dapr.io) since I heard a lot of good things about this technology. Lets see what all the fuss is about.
+
+### DAY 1: May 30, 2021
+
+**Today's Progress**: Take 3! In spirit of 3 times is the charm, let's continue this run. Some turbulent times at work which should not have kept me from this amazing challenge. Today I have spent my first hour or two in FSharp. It looks like an interesting language which is built on the framework that I know and love aka dotnet. In the future I want to extend my functional knowledge to Haskell aswell since I have heard that that is the functional language mostly used.
+
+**Link(s) to work**:
+1. [FSharpCore](https://github.com/visschersm/FSNetCore)
+
+### Day 2: May 31, 2021
+
+**Today's Progress**: A day longer already then Take 2! Lets keep going. Spent some more time with FSharp. Currently following along with a talk about building your own Query language with FParsec. Had some issues with the target framework, since I already had the dotnet 6 sdk installed. The issues were limited to unresolved dependencies which would still be resolved when using the dotnet cli.
+
+**Link(s) to work**:
+1. [MTCLang](https://github.com/visschersm/mtclang)
