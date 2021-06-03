@@ -21,7 +21,7 @@ Today I did read more tutorials on F# while experimenting implementing these tut
 
 **Link(s) to work**:
 1. [F# Tutorial](https://www.youtube.com/watch?v=34C_7halqGw)
-2. [My implementation()
+2. [My implementation(https://github.com/visschersm/mtclang)
 
 ### Day 2: May 31, 2021
 
