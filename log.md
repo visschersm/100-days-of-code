@@ -270,3 +270,18 @@ Today I started setting up [Dapr](dapr.io) since I heard a lot of good things ab
 
 **Link(s) to work**:
 1. [MTCLang](https://github.com/visschersm/mtclang)
+
+### Day 3: June 1, 2021
+
+**Today's Progress**: Today I continued working on following the tutorial on building my own query language. I will put the link in the links to work section. I noticed that when following the tutorial I can understand what is happening, but I do not yet have a good grasp on the language itself.
+
+**Link(s) to work**:
+1. [F# Tutorial](https://www.youtube.com/watch?v=34C_7halqGw)
+2. [My implementation()
+
+### Day 4: June 2, 2021
+
+**Today's Progress**: Continuing to getting a good grasp on the F# language. I notice that I find it harder to find good tutorials, maybe I will go shopping for some nice books. My goal is that I am able to build some basic projects from scratch with some decent confidence.
+
+**Link(s) to work**:
+1. [Microsoft F# Tutorial page](https://dotnet.microsoft.com/learn/fsharp/)
