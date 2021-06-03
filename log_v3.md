@@ -5,7 +5,7 @@ Today I decided to start a new version of the log. This to separate this run fro
 Today I did read more tutorials on F# while experimenting implementing these tutorials.
 
 **Link(s) to work**:
-1. [Some F# test code]()
+1. [Some F# test code](https://github.com/visschersm/fsharp-learn)
 2. [F# tutorials](https://docs.microsoft.com/en-us/dotnet/fsharp/introduction-to-functional-programming/first-class-functions)
 
 ### Day 4: June 2, 2021
