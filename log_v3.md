@@ -2,11 +2,12 @@
 Today I decided to start a new version of the log. This to separate this run from the previous 2 runs. Next to that I decided to invert the logging, this way I will just add to the top of the log which makes it easier to edit the log each day.
 
 **Today's Progress**:
-Today I did read more tutorials on F# while experimenting implementing these tutorials.
+Today I did read more tutorials on F# while experimenting implementing these tutorials. Next to that I started working on a git project. This to learn more about git workflows, actions and projects.
 
 **Link(s) to work**:
 1. [Some F# test code](https://github.com/visschersm/fsharp-learn)
 2. [F# tutorials](https://docs.microsoft.com/en-us/dotnet/fsharp/introduction-to-functional-programming/first-class-functions)
+3. [MPTest](https://github.com/visschersm/mptest)
 
 ### Day 4: June 2, 2021
 
