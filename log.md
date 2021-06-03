@@ -285,3 +285,6 @@ Today I started setting up [Dapr](dapr.io) since I heard a lot of good things ab
 
 **Link(s) to work**:
 1. [Microsoft F# Tutorial page](https://dotnet.microsoft.com/learn/fsharp/)
+
+### Day 5: June 3, 2021
+Following logs will be written in [log_v3](https://github.com/visschersm/100-days-of-code/blob/master/log_v3.md)
