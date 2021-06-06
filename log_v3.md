@@ -1,3 +1,12 @@
+### Day 6: June 4, 2021
+
+**Today's Progress**:
+Today I started working on a side project that has been in my head for quite some time. This side project contains some useful packages for c# unit/integration testing and extension methods that I like to use. Also in this project I want to try to use github actions to build and test the packages. 
+
+**Link(s) to work**:
+1. [Initial repository](https://github.com/visschersm/mptest)
+
+
 ### Day 5: June 3, 2021
 Today I decided to start a new version of the log. This to separate this run from the previous 2 runs. Next to that I decided to invert the logging, this way I will just add to the top of the log which makes it easier to edit the log each day.
 
