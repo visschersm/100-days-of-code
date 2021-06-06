@@ -1,7 +1,17 @@
+### Day 7: June 5, 2021
+
+**Today's Progress**:
+Today I worked some more on the side project. Now extending the unit test package with some extension methods that I like to use. And some new ones that I want to start using to make testing easier when using MongoDb. Also I managed to make the first actions work, updating a nuget package.
+
+**Link(s) to work**:
+1. [Extension package](https://github.com/visschersm/MPTech.Mongo.Extensions)
+2. [Nuget package](https://www.nuget.org/packages/MPTech.Mongo.Extensions/)
+
+
 ### Day 6: June 4, 2021
 
 **Today's Progress**:
-Today I started working on a side project that has been in my head for quite some time. This side project contains some useful packages for c# unit/integration testing and extension methods that I like to use. Also in this project I want to try to use github actions to build and test the packages. 
+Today I started working on a side project that has been in my head for quite some time. This side project contains some useful package(s) for c# unit/integration testing. Next to that I want to use github actions to build and test the package(s). The actions should automatically be run when updating the main branch to check if the project is still valid and update the package when it is valid.
 
 **Link(s) to work**:
 1. [Initial repository](https://github.com/visschersm/mptest)
@@ -18,12 +28,14 @@ Today I did read more tutorials on F# while experimenting implementing these tut
 2. [F# tutorials](https://docs.microsoft.com/en-us/dotnet/fsharp/introduction-to-functional-programming/first-class-functions)
 3. [MPTest](https://github.com/visschersm/mptest)
 
+
 ### Day 4: June 2, 2021
 
 **Today's Progress**: Continuing to getting a good grasp on the F# language. I notice that I find it harder to find good tutorials, maybe I will go shopping for some nice books. My goal is that I am able to build some basic projects from scratch with some decent confidence.
 
 **Link(s) to work**:
 1. [Microsoft F# Tutorial page](https://dotnet.microsoft.com/learn/fsharp/)
+
 
 ### Day 3: June 1, 2021
 
@@ -33,12 +45,14 @@ Today I did read more tutorials on F# while experimenting implementing these tut
 1. [F# Tutorial](https://www.youtube.com/watch?v=34C_7halqGw)
 2. [My implementation](https://github.com/visschersm/mtclang)
 
+
 ### Day 2: May 31, 2021
 
 **Today's Progress**: A day longer already then Take 2! Lets keep going. Spent some more time with FSharp. Currently following along with a talk about building your own Query language with FParsec. Had some issues with the target framework, since I already had the dotnet 6 sdk installed. The issues were limited to unresolved dependencies which would still be resolved when using the dotnet cli.
 
 **Link(s) to work**:
 1. [MTCLang](https://github.com/visschersm/mtclang)
+
 
 ### DAY 1: May 30, 2021
 
