@@ -1,3 +1,23 @@
+### Day 9: June 7, 2021
+
+**Today's Progress**:
+Today I spent some time on learning about the project vs repository structure in github. Next to that I have been optimizing my terminal in vscode. I installed poshgit to provide auto complete on git commands.
+Next to that I have been adding action support to the test utility package.
+
+**Link(s) to work**:
+1. [Extension package](https://github.com/visschersm/MPTech.Mongo.Extensions)
+2. [Test package](https://github.com/visschersm/MPTech.TestUtilities)
+
+
+### Day 8: June 6, 2021
+
+**Today's Progress**:
+Today I spent some time on figuring out how to built against multiple sdks using github actions. In the end I learned that building with multiple sdks does not provide more support. It will be useful though when another sdk is release to see if the project still builts. For multiple sdk support I can just use TargetFramework(s) in dotnet.
+
+**Link(s) to work**:
+1. [Extension package](https://github.com/visschersm/MPTech.Mongo.Extensions)
+
+
 ### Day 7: June 5, 2021
 
 **Today's Progress**:
