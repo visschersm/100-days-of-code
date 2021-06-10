@@ -1,3 +1,12 @@
+### Day 10, 11 & 12: June 8 - 10 2021
+
+**Progress**:
+I've been working on and off the last couple of days on my GenericFactory. Learning about how Autofac closes the DI for saftey. I, however, wanted to open it up so that I can easily use what is in the DI while running tests. In the end I found a way by rebuilding the container each time the state changes and with a little reflection managed to provide decent DI for testing purposes.
+
+**Link(s) to work**:
+1. [Test package](https://github.com/visschersm/MPTech.TestUtilities)
+2. [Autofac](https://autofac.org/)
+
 ### Day 9: June 7, 2021
 
 **Today's Progress**:
