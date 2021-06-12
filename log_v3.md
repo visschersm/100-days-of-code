@@ -1,3 +1,11 @@
+### Day 13: June 11 2021
+
+**Today's Progress**:
+Today I started working on a pluralsight course covering F# fundamentals.
+
+**Link(s) to work**:
+1. [FSharp vs CSharp](https://github.com/visschersm/fsharp-csharp-compare)
+
 ### Day 10, 11 & 12: June 8 - 10 2021
 
 **Progress**:
