@@ -1,4 +1,21 @@
-### Day 13: June 11 2021
+### Day 15: June 14, 2021
+
+**Today's Progress**:
+Yesterday I forgot to add the log so I combined the dates. I have been continuing the course on F# which I just completed the second course. 
+In this course I have built a sound generator. When trying out some more code for myself I had some trouble understanding how to combine functions. Will look into that tomorrow some more.
+
+**Link(s) to work**:
+1. [Sound generator](https://github.com/visschersm/NokiaComposer)
+
+### Day 14 & Day 15: June 12 & 13, 2021
+
+**Today's Progress**:
+Today I continued the course on F#. Trying out this (for me) new language. I am not really comfertable with the syntax but maybe that will come soon.
+
+**Link(s) to work**:
+1. [Samples](https://github.com/visschersm/fsharp-learn)
+
+### Day 13: June 11, 2021
 
 **Today's Progress**:
 Today I started working on a pluralsight course covering F# fundamentals.
@@ -8,7 +25,7 @@ Today I started working on a pluralsight course covering F# fundamentals.
 
 ### Day 10, 11 & 12: June 8 - 10 2021
 
-**Progress**:
+**Today's Progress**:
 I've been working on and off the last couple of days on my GenericFactory. Learning about how Autofac closes the DI for saftey. I, however, wanted to open it up so that I can easily use what is in the DI while running tests. In the end I found a way by rebuilding the container each time the state changes and with a little reflection managed to provide decent DI for testing purposes.
 
 **Link(s) to work**:
