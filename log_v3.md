@@ -1,3 +1,13 @@
+### Day 16: June 15, 2021
+
+**Today's Progress**:
+Since my start of the F# pluralsight course I have been trying out and struggling with some code examples. Today I finally finished up a basic pythagoras function. I challenged myself to use 2 different functions to get the pieces done. After that I continued the course and learned about records, tuples, lists and arrays. Adding that to the code samples to tryout some more examples.
+
+**Link(s) to work**:
+1. [Pythagoras implementation](https://github.com/visschersm/fsharp-learn/blob/main/recursion.fs)
+2. [More F#](https://github.com/visschersm/fsharp-learn/blob/main/math.fs)
+
+
 ### Day 15: June 14, 2021
 
 **Today's Progress**:
@@ -6,6 +16,7 @@ In this course I have built a sound generator. When trying out some more code fo
 
 **Link(s) to work**:
 1. [Sound generator](https://github.com/visschersm/NokiaComposer)
+
 
 ### Day 14 & Day 15: June 12 & 13, 2021
 
