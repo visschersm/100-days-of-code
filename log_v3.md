@@ -1,3 +1,20 @@
+### Day 18: June 17, 2021
+
+**Today's Progress**:
+Today I managed to put some time in my cooperative project. I am planning to setup some projects that include some usefull libraries for multiple purposes. From testing to extensions all automatically deployed while using github actions.
+
+**Link(s) to work**:
+1. [MatrTech](https://github.com/matrtech)
+
+
+### Day 17: June 16, 2021 
+
+**Today's Progress**:
+Today I did the skill test on plural sight for the skills Entity Framework and Python. As expected my knowledge of Python is not yet at a level to call myself an expert. Sadly there was no path/skill check on the F# course.
+
+**Link(s) to work**:
+1. [Developer Story](https://stackoverflow.com/users/story/2372288)
+
 ### Day 16: June 15, 2021
 
 **Today's Progress**:
