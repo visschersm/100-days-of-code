@@ -1,10 +1,11 @@
 ### Day 18: June 17, 2021
 
 **Today's Progress**:
-Today I managed to put some time in my cooperative project. I am planning to setup some projects that include some usefull libraries for multiple purposes. From testing to extensions all automatically deployed while using github actions.
+Today I managed to put some time in my cooperative project. I am planning to setup some projects that include some usefull libraries for multiple purposes. From testing to extensions all automatically deployed while using github actions. Next to that I spent some time on the pluralsight F# course and finished the composer parser.
 
 **Link(s) to work**:
 1. [MatrTech](https://github.com/matrtech)
+2. [Parser](https://github.com/visschersm/NokiaComposer/blob/main/ToneParser.fs)
 
 
 ### Day 17: June 16, 2021 
