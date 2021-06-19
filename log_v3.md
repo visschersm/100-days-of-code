@@ -1,3 +1,12 @@
+### Day 19: June 18, 2021
+
+**Today's Progress**:
+Today I followed along with a C# pluralsight course since I want to improve my skill ranking a bit further.
+
+**Link(s) to work**:
+1. [C# Ranging](https://app.pluralsight.com/profile/visschersm)
+
+
 ### Day 18: June 17, 2021
 
 **Today's Progress**:
