@@ -1,3 +1,17 @@
+### Day 21: June 20, 2021
+
+**Today's Progress**:
+Today I restructured most of the MatrTech projects. Adding some github workflows and giving them an automatic build version.
+
+**Link(s) to work**:
+1. [MatrTech](https://github.com/matrtech
+
+### Day 20: June 19, 2021
+
+**Today's Progress**:
+Quite a busy day so I only spend some time on plural sight extending my F# and C# knowledge. I am currently thinking to do a project which includes both while sharing the dotnet framework.
+I was thinking of a program/vscode extension that can run http requests while using shared requests to easily quick check your api's.
+
 ### Day 19: June 18, 2021
 
 **Today's Progress**:
