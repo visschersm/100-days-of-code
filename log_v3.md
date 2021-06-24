@@ -1,10 +1,22 @@
+### Days 22 - 24: June 21 - June 23, 2021
+
+**Progress**:
+The last couple of days I have been struggling getting our packaged deployed to nuget. Each day I have been trying to get it done in another way. Biggest point I have been struggling with is using two different version mechanizems. I wanted to have 1 specific local version which dynamically was updated when building and I wanted to have a release version on nuget. Today I finally got it to work. When using the <Version> attribute in the C# project and overriding this when building and releasing the package.
+  
+Next to that I have been continuing following pluralsight courses but forgot to take one yesterday. Sadly my 13day streak has come to an end. But I will just start over and continue to learn some more F# and expand my C# knowledge.
+ 
+**Link(s) to work**:
+1. [MatrTech Nuget](https://www.nuget.org/packages/MatrTech.Utilities.Test)
+2. [MatrTech GitHub](https://github.com/matrtech)
+3. [PluralSight Profile](https://app.pluralsight.com/profile/visschersm)
+
 ### Day 21: June 20, 2021
 
 **Today's Progress**:
 Today I restructured most of the MatrTech projects. Adding some github workflows and giving them an automatic build version.
 
 **Link(s) to work**:
-1. [MatrTech](https://github.com/matrtech
+1. [MatrTech](https://github.com/matrtech)
 
 ### Day 20: June 19, 2021
 
