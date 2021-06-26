@@ -1,3 +1,22 @@
+### Day 26: June 26, 2021
+
+**Today's Progress**:
+Today I started with a Haskell course on Pluralsight.
+
+**Link(s) to work**:
+1. [TestHaskell repository](https://github.com/visschersm/TestHaskell)
+
+
+### Day 25: June 25, 2021
+
+**Today's Progress**:
+Today I spent a day working on the MatrTech project. Finally all the packages we have been working on are on nuget. Had some troubles getting the version in a manner that we liked. Now we have our own local timebased build versions of the packages next to a specific release version and it is all building using github actions!
+
+**Link(s) to work**:
+1. [MatrTech Nuget](https://www.nuget.org/packages/MatrTech.Utilities.Test)
+2. [MatrTech GitHub](https://github.com/matrtech)
+
+
 ### Days 22 - 24: June 21 - June 23, 2021
 
 **Progress**:
