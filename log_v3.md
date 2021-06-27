@@ -1,13 +1,31 @@
-### Day 26: June 26, 2021
+### Day 28: June 27, 2021
 
-**Today's Progress**:
-Today I started with a Haskell course on Pluralsight.
+** Today's Progress**:
+After the Haskell examples I was wondering if I could do these in F#. It was a bit of a struggle but I managed to get some math functions up and running.
 
 **Link(s) to work**:
-1. [TestHaskell repository](https://github.com/visschersm/TestHaskell)
+1. [F# Math](https://github.com/visschersm/math)
 
 
-### Day 25: June 25, 2021
+### Day 27: June 26, 2021
+
+**Today's Progress**:
+Today I continued the Haskell course on Pluralsight. It took me a while to get some extensions in VSCode up and running but now I am okay with the setup I have running. After setting up I started with some examples to understand the syntax better.
+
+**Link(s) to work**:
+1. [PluralSight Profile](https://app.pluralsight.com/profile/visschersm)
+2. [TestHaskell repository](https://github.com/visschersm/TestHaskell)
+
+### Day 26: June 25, 2021
+
+**Today's Progress**:
+Today I started a pluralsight tutorial on haskell.
+
+**Link(s) to work**:
+1. [PluralSight Profile](https://app.pluralsight.com/profile/visschersm)
+
+
+### Day 25: June 24, 2021
 
 **Today's Progress**:
 Today I spent a day working on the MatrTech project. Finally all the packages we have been working on are on nuget. Had some troubles getting the version in a manner that we liked. Now we have our own local timebased build versions of the packages next to a specific release version and it is all building using github actions!
