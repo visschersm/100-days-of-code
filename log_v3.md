@@ -1,3 +1,11 @@
+### Day 29: June 28, 2021
+
+**Today's Progress**:
+Today I worked some more on the MatrTech project. Extending the testcases next to building and running them for the three active frameworks (netcore 3.1, net 5 and net 6). First time I could not makeout why we currently do not have a 100% test coverage on 1 specific method. 
+
+**Link(s) to work**:
+1. [MatrTech](https://github.com/matrtech)
+
 ### Day 28: June 27, 2021
 
 ** Today's Progress**:
