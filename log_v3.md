@@ -1,3 +1,15 @@
+### Day 30: June 30, 2021
+
+**Today's Progress**:
+Yesterday I skipped a day since I was away for a training. Today however I spent some time on learning some more F# and Haskell. For F# I spent some time working on getting a better grasp on recursion. I watch some tutorial again about recursion since I was stuck a bit but my knowledge is increasing bit by bit.
+
+**Link(s) to work**:
+1. [Pluralsight course](https://app.pluralsight.com/course-player?clipId=69eead87-d1a1-46de-8dd3-bba9f685fec4)
+2. [FSharp](https://github.com/visschersm/fsharp-learn/blob/main/recursion.fs)
+3. [Haskell course](https://app.pluralsight.com/course-player?clipId=61c8541e-5d3b-4f67-98f3-0d10182f2287)
+4. [Haskell](https://github.com/visschersm/haskell-learn)
+
+
 ### Day 29: June 28, 2021
 
 **Today's Progress**:
