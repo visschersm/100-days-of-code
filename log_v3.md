@@ -1,3 +1,14 @@
+### Day 31 & 32: July 1 - 2, 2021
+
+**Today's Progress**:
+These days I worked on the MatrTech project again. Extending the project with another package of helper methods. Also I started working on a database manager for the mongo package. Figuring out how to structure that in a way it provides the structures I love from entityframework but also keeping the strength alive of mongo. In the end we decided that we should look at it as a seperate problem. Not just compare it to the things we had in entityframework.
+
+**Link(s) to work**:
+1. [Helper repository](https://github.com/matrtech/utilities.helpers)
+2. [Mongo repository](https://github.com/matrtech/utilities.mongo)
+3. [Extension repository](https://github.com/matrtech/utilities.extensions.mongo)
+
+
 ### Day 30: June 30, 2021
 
 **Today's Progress**:
