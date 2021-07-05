@@ -1,3 +1,28 @@
+### Day 35: July 5, 2021
+**Today's Progress**:
+Worked some more on the ContextManager. Finishing the suggestions made in the pull request.
+
+**Link(s) to work**:
+1. [Mongo repository](https://github.com/matrtech/utilities.mongo)
+
+
+### Day 34: July 4, 2021
+**Today's Progress**":
+I finally made it work to initialize the base class in a way that triggered derived collection initilization. There are still a lot of open issues for which I do not currently have the answers but the ContextManager is nearing its form in which I want it.
+
+**Link(s) to work**:
+1. [Mongo repository](https://github.com/matrtech/utilities.mongo)
+
+
+### Day 33: July 3, 2021
+
+**Today's Progress**:
+I continued working on the DatabaseManager and decided it should be called ContextManager instead since it will create a MongoContext. Deriving from this class the user will be able to attach different MongoCollection which will be coupled to the mongo instance at runtime. By using this context the user will no longer have to supply different strings throughout the application to get collections.
+
+**Link(s) to work**:
+1. [Mongo repository](https://github.com/matrtech/utilities.mongo)
+
+
 ### Day 31 & 32: July 1 - 2, 2021
 
 **Today's Progress**:
