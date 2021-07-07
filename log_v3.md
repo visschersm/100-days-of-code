@@ -1,3 +1,7 @@
+### Day 35: July 6 & 7, 2021
+**Progress**:
+The last two days I have been sick so I did spend only some time on pluralsight. Tomorrow I will continue the challenge again.
+
 ### Day 35: July 5, 2021
 **Today's Progress**:
 Worked some more on the ContextManager. Finishing the suggestions made in the pull request.
