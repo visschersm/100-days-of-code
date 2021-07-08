@@ -1,3 +1,8 @@
+### Day 36: July 8, 2021
+
+**Today's Progress**:
+I started working on a docker course. Also because I need this for my current assignment but I did have the topic on my todo list from the start. Glad to finally have an excuse to dive into it.
+
 ### Day 35: July 6 & 7, 2021
 **Progress**:
 The last two days I have been sick so I did spend only some time on pluralsight. Tomorrow I will continue the challenge again.
