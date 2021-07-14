@@ -1,3 +1,8 @@
+### Day ..: July 14, 2021
+
+**Progress**:
+Since I started my new job I have been distracted updating my log though I have been doing some work on my personal project. I started working on a Mongo library that provides an easy way to configure the database connection next to a easier way to access collections using a MongoContext. After the weekend I will start again and pickup where I left with a more expansive log and some examples.
+
 ### Day 36: July 8, 2021
 
 **Today's Progress**:
